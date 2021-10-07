@@ -12,7 +12,8 @@
     "@shower/material": "^2.4.4"
   },
   "devDependencies": {
-    "@shower/cli": "^0.3.1"
+    "@shower/cli": "^0.3.1",
+    "gh-pages": "^3.2.3"
   },
   "files": [
     "pictures/**",
